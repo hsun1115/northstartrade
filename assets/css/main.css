@@ -18,9 +18,15 @@
 
 /* Colors */
 :root {
-  --color-default: #fafafa;
+  --color-default: #2f3334;
   --color-primary: #27a776;
   --color-secondary: #161718;
+}
+.category-header {
+  max-width: 700px;
+}
+.container {
+  max-width: 1160px;
 }
 
 /* Smooth scroll behavior */
@@ -808,7 +814,7 @@ h6 {
 # Gallery Single Section
 --------------------------------------------------------------*/
 .gallery-single .portfolio-details-slider img {
-  width: 100%;
+  width: 55%;
 }
 
 .gallery-single .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
@@ -847,7 +853,7 @@ h6 {
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-@media (max-width: 575px) {
+@media (max-width: 400px) {
 
   .gallery-single .swiper-button-prev,
   .gallery-single .swiper-button-next {
@@ -910,7 +916,7 @@ h6 {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
-  color: #fff;
+  color: #050505;
   font-family: var(--font-secondary);
 }
 
@@ -1284,7 +1290,7 @@ h6 {
 .first {
   padding-top: 5rem;
   margin-top: 5rem;
-  background-image: url("/assets/img/gallery/gallery-1.jpg");
+  background-image: url("https://github.com/hsun1115/testingWeb/blob/main/assets/img/gallery/gallery-1.jpg?raw=true");
 }
 /*--------------------------------------------------------------
 # Footer
