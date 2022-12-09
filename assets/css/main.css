@@ -16,6 +16,10 @@
   --font-secondary: "Cardo", sans-serif;
 }
 
+.img-protection {
+  pointer-events: none;
+}
+
 /* Colors */
 :root {
   --color-default: #2f3334;
