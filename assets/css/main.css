@@ -28,7 +28,7 @@
 /* Colors */
 :root {
   --color-default: #2f3334;
-  --color-primary: #27a776;
+  --color-primary: #edf1ef;
   --color-secondary: #161718;
 }
 .category-header {
@@ -58,7 +58,7 @@ a {
 }
 
 a:hover {
-  color: #32cf93;
+  color: #0477e7;
   text-decoration: none;
 }
 
@@ -86,7 +86,7 @@ h6 {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgb(141, 139, 139);
   font-family: var(--font-primary);
 }
 
@@ -105,7 +105,7 @@ h6 {
   font-size: 36px;
   font-weight: 700;
   font-family: var(--font-secondary);
-  color: #fff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -120,7 +120,7 @@ h6 {
 .page-header h2 {
   font-size: 56px;
   font-weight: 500;
-  color: #fff;
+  color: #000000;
   font-family: var(--font-secondary);
 }
 
@@ -983,7 +983,7 @@ h6 {
 
 .gallery-single .portfolio-description .testimonial-item p {
   font-style: italic;
-  margin: 0 0 15px 0 0 0;
+  margin: 0 0 15px 0;
   padding: 0;
 }
 
@@ -1117,7 +1117,7 @@ h6 {
   padding: 0;
   margin-bottom: 0;
   font-size: 14px;
-  color: #fff;
+  color: #000000;
 }
 
 .contact .info-item:hover i {
