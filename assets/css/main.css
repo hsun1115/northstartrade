@@ -1353,6 +1353,9 @@ h6 {
   margin-top: 5rem;
   background-image: url("https://raw.githubusercontent.com/hsun1115/testingWeb/main/assets/img/WebDuo-Home-Page-Background.png");
   background-size: cover;
+  display: inline-block;
+  text-transform: uppercase;
+  transition: 0.3s;
 }
 
 #map {
