@@ -1357,6 +1357,9 @@ h6 {
   text-transform: uppercase;
   transition: 0.3s;
 }
+.second {
+  background-image: url("https://github.com/hsun1115/testingWeb/blob/main/assets/img/c2.jpeg?raw=true");
+}
 
 #map {
   height: 400px;
